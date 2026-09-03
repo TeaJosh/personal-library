@@ -1,2 +1,2 @@
 # personal-library
-A personal collection of books and resources for learning programming and computer science.
+A personal collection of books and resources covering computer science, technology, and software development.
